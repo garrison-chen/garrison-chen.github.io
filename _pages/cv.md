@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* June 2020 - 2025 (expected): Ph.D in Bioinformatics
+  * Saarland University & Helmholtz Institute of Pharmaceutical Research Saarland
+  * Duties included: Research in Metagenomics. My project aims to develop a novel therapeutic approach to treat infections of the lung by the rational application of therapeutic microorganisms as living materials. Bioinformatic analysis of metagenomic data of patients with lung disease and health is used to identify beneficial commensal bacterial and resistance mechanisms of pathogens.
+  * Supervisors: [Prof. Olga Kalinina](https://www.helmholtz-hips.de/en/research/people/person/prof-dr-olga-kalinina/), [Drug Bioinformatics (WIBI)](https://www.helmholtz-hips.de/en/research/teams/team/drug-bioinformatics/); [Prof. Dr. med. Dr. rer. nat. Robert Bals](https://www.uniklinikum-saarland.de/de/einrichtungen/kliniken_institute/medizinische_kliniken/innere_medizin_v/team), Universitätsklinikum des Saarlandes und Medizinische Fakultät der Universität des Saarlandes.
+    
 * Sep 2020 - Jun 2022: Research Assistant
   * Deutsches Forschungszentrum für Künstliche Intelligenz
   * Duties included: Algorithms evaluation and design; Software engineering support for Semantic Services computing.
