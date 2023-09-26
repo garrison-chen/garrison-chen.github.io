@@ -20,12 +20,15 @@ Work experience
 * Sep 2020 - Jun 2022: Research Assistant
   * Deutsches Forschungszentrum für Künstliche Intelligenz
   * Duties included: Algorithms evaluation and design; Software engineering support for Semantic Services computing.
-  * Supervisor: PD Dr. Matthias Klusch (https://www.dfki.de/~klusch/)
+  * Supervisor: PD Dr. [Matthias Klusch](https://www.dfki.de/~klusch/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - Nov 2018: Research Trainee
+  * BASF Nunhems Netherlands B.V.
+  * Duties included: This research internship was taken part in the Marker Assisted Selection department, mainly focus on genetic analysis on pepper:
+    • Improving the integrated genetic map
+    • Performing simulations to optimize the current QTL mapping process
+    • Mapping the recombination hotspots
+  * Supervisor: Dr. Nelson H. Davila Olivas
   
 Skills
 ======
