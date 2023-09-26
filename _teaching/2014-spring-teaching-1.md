@@ -1,5 +1,5 @@
 ---
-title: "Structural Bioinformatics"
+title: "Teaching experience 2"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
