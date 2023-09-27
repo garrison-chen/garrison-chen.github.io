@@ -2,7 +2,7 @@
 title: "Structural Bioinformatics"
 collection: teaching
 type: "graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/structural-bioinformatics-ws2324
 venue: "Saarland University"
 date: "2023-10-27"
 location: "E2.1 CBI, UdS"
