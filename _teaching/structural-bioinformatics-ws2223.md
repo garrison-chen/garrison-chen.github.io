@@ -9,7 +9,7 @@ location: "E2.1 CBI, UdS"
 ---
 
 Type: Graduate course  
-Duration: WS23/24  
+Duration: WS22/23  
 Location: E2.1 CBI, UdS  
 
 Topics of this course
