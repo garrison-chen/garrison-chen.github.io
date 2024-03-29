@@ -7,9 +7,9 @@ venue: "Saarland University"
 date: "2023-10-27"
 location: "E2.1 CBI, UdS"
 ---
-Type: Graduate course
-Duration: WS23/24
-Location: E2.1 CBI, UdS
+Type: Graduate course  
+Duration: WS23/24  
+Location: E2.1 CBI, UdS  
 
 Topics of this course
 * Three-dimensional organization of biological molecules
