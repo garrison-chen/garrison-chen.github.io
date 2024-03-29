@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm currently a PhD student in Bioinformatics, more specifically, Metagenomics. My project aims to develop a novel therapeutic approach to treat infections of the lung by the rational application of therapeutic microorganisms as living materials. Bioinformatic analysis of metagenomic data of patients with lung disease and health is used to identify beneficial commensal bacterial and resistance mechanisms of pathogens. 
+Welcome to my page! I'm a PhD student in [Kalinia's lab](https://www.helmholtz-hips.de/en/research/teams/team/drug-bioinformatics/). My research topic is Bioinformatics, more specifically, Metagenomics. My project aims to develop a novel therapeutic approach to treat lung infections by rationally applying therapeutic microorganisms as living materials. Bioinformatic analysis of metagenomic data of patients with lung disease and health is used to identify beneficial commensal bacterial and resistance mechanisms of pathogens. 
 
 I'm generally interested in anything related to sequence algorithms that apply to Metagenomics. I work on both the analysis pipelining, like Taxonomic/Functional profiling, assembly, binning, annotation, as well as the conceptual part which focuses on the algorithm design and improvement that make the analysis part easier. 
 
