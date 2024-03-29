@@ -8,13 +8,13 @@ date: "2023-10-27"
 location: "E2.1 CBI, UdS"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Topics of this course
+• Three-dimensional organization of biological molecules
+• Selected methods for predicting structural and functional features in
+proteins
+• Key concepts in protein evolution
+• Prediction of protein 3D structure using homology modelling
+• Approaches to comparing protein 3D structures
+• Prediction of protein 3D structure without detectable homology
+• Applications of protein evolution to the prediction of their 3D structure
+• Relevant algorithms / computational techniques
