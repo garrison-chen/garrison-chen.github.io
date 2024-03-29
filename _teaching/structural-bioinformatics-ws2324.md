@@ -1,7 +1,7 @@
 ---
 title: "Structural Bioinformatics"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 # permalink: /teaching/structural-bioinformatics-ws2324
 venue: "Saarland University"
 date: "2023-10-27"
